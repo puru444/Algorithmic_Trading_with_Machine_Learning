@@ -110,6 +110,6 @@ AdaBooster Classifier
 
 
 **FINDINGS:**
-After Considering: Classificiation Reports & Cumulative Returns Visual Charts of all 4 Trials, it looks like that TRIAL 4 after applying "AdaBooster Classifier" with this input parameter of "SMA Readings": Short-Window = 07 Days & Long Window = 60 Days are the most appropriate ones to train this model. 
+After Considering: Classification Reports & Cumulative Returns Visual Charts of all 4 Trials, it looks like that TRIAL 4 after applying "AdaBooster Classifier" with this input parameter of "SMA Readings": Short-Window = 07 Days & Long Window = 60 Days are the most appropriate ones to train this model. 
 
 Since, Actual & Strategy Returns are quite close to each other therefore TRIAL 4 Model is the most fitted model on this dataset.
