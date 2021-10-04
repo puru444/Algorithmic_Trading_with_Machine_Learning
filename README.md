@@ -1,6 +1,23 @@
 # Trading Signals (Algorithms) with Machine Learning
 
 
+**Background:**
+
+As a Financial Advisor at one of the major Financial Institution, I have analyzed the Daily Closing Prices of Stock: "OHLCV". Where, I have calculated the Actual Returns of the stock for each day price movements by applying "Change in %" formula in daily closing prices of stock. 
+
+In order to create: **"Trading Algorithm - Machine Learning Model"** I have considered the "Actual Returns" value as a Signal for Buying & Selling the Stock. 
+
+Where, I have defined the following conditions:
+
+If, the Actual Returns >= 0 then system returns Signal value as: 1 (Where, 1 means: **BUY**)
+
+If, the Actual Returns < 0 then system returns Signal value as: -1 (Where, -1 means: **SELL**)
+
+
+I have tested various Models to get the accurate predictions, following are the models I have used with their Performance Summary including "Classification Report" & "Cumulative Return Chart":
+
+
+
 
 **TRIAL 1: MODEL PERFORMANCE SUMMARY:**
 
