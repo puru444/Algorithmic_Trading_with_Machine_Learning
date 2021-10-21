@@ -1,5 +1,5 @@
 # Trading Signals (Algorithms) with Machine Learning
-
+CASE STUDY: Machine Learning Trading Bot
 
 **Background:**
 
