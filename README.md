@@ -1,5 +1,5 @@
 # Trading Signals (Algorithms) with Machine Learning
-CASE STUDY: Financial Institution's ML Trading Bot, using the SVC Classifier Model to Support Vector Machine (SVM).
+CASE STUDY: Financial Institution's ML Trading Bot, using the SVC Classifier Model for Support Vector Machine (SVM).
 
 **Background:**
 
